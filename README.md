@@ -1,5 +1,5 @@
 https://www.linkedin.com/in/mohammed-arif-ba2342231/overlay/background-image/
-<h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
+<h1 align="center">Hi 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+;+I'm+Mohammed+Arif)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate DevOps Engineer & Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areefann567&label=Profile%20views&color=0e75b6&style=flat" alt="areefann567" /> </p>
