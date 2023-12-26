@@ -1,6 +1,4 @@
 <img width="900" alt="Screenshot 2023-12-15 161402" src="https://github.com/areefann567/areefann567/assets/120305645/a51395a1-0c4b-437d-9181-a4865d8a8a57">
-
-
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
 <h3 align="center">A passionate DevOps Engineer & Web Developer from India</h3>
 
@@ -8,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/areefann567" target="blank"><img src="https://img.shields.io/twitter/follow/areefann567?logo=twitter&style=for-the-badge" alt="areefann567" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,Python,Javascript**
+- 🌱 I’m currently learning **DevOps,Python,Javascript,Docker,Kubernetes**
 
 - 📝 I regularly write articles on [https://areef.hashnode.dev/](https://areef.hashnode.dev/)
 
@@ -20,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/areefann567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="areefann567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammed-arif-ba2342231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-arif-ba2342231" height="30" width="40" /></a>
-<a href="https://hashnode.com/areefann567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="areefann567" height="30" width="40" /></a>
+<a href="https://hashnode.com/@areefann567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@areefann567" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
