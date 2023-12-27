@@ -1,4 +1,5 @@
-<img width="900" alt="Screenshot 2023-12-15 161402" src="https://github.com/areefann567/areefann567/assets/120305645/a51395a1-0c4b-437d-9181-a4865d8a8a57">
+<img width="695" alt="Screenshot 2023-12-15 161402" src="https://github.com/areefann567/areefann567/assets/120305645/ebeef186-e4fa-4bc4-aba4-f7b6dc83f528">
+
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
 <h3 align="center">A passionate DevOps Engineer & Web Developer from India</h3>
 
