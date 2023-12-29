@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/areefann567" target="blank"><img src="https://img.shields.io/twitter/follow/areefann567?logo=twitter&style=for-the-badge" alt="areefann567" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,Python,Javascript,Docker,Kubernetes**
+- 🌱 I’m currently learning **Web Development , DevOps,Python,Javascript,Docker,Kubernetes**
 
 - 📝 I regularly write articles on [https://areef.hashnode.dev/](https://areef.hashnode.dev/)
 
