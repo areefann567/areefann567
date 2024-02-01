@@ -1,4 +1,5 @@
-<img width="695" alt="Screenshot 2023-12-15 161402" src="https://github.com/areefann567/areefann567/assets/120305645/ebeef186-e4fa-4bc4-aba4-f7b6dc83f528">
+<img width="695" alt="Screenshot 2023-12-15 161402" src="https://github.com/areefann567/areefann567/assets/120305645/04383969-38a9-401f-bc17-7ec604147946">
+
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
 <h3 align="center">A passionate DevOps Engineer & Web Developer from India</h3>
 
@@ -6,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/areefann567" target="blank"><img src="https://img.shields.io/twitter/follow/areefann567?logo=twitter&style=for-the-badge" alt="areefann567" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,Python,Javascript,Docker,Kubernetes**
+-  I am an aspiring Web Devleoper & DevOps with an experimentative mindset, I love to do experiments with the skillset I possess helping me mimic the real world scenarios and problems at the same time gaining some experience.
+
+- One thing I believe sets me apart from the crowd is my willingness to explore the depth of my skills and implement them. For example, when I started working with Technology, I had a hunger for more knowledge, so I 
+  explored it more and more until I became quite proficient. During this process, I experimented with various commands and explored real-world scenarios to gain a better understanding.
 
 - 📝 I regularly write articles on [https://areef.hashnode.dev/](https://areef.hashnode.dev/)
 
