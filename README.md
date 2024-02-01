@@ -14,7 +14,6 @@
 
 - 📝 I regularly write articles on [https://areef.hashnode.dev/](https://areef.hashnode.dev/)
 
-- 💬 Ask me about **DevOps . Linux . Scripting . Containerisation . Programming**
 
 - 📫 How to reach me **areefann567@gmail.com**
 
