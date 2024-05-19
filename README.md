@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://twitter.com/areefann567" target="blank"><img src="https://img.shields.io/twitter/follow/areefann567?logo=twitter&style=for-the-badge" alt="areefann567" /></a> </p>
 
 -  I am an aspiring Web Devleoper & DevOps with an experimentative mindset, I love to do experiments with the skillset I possess helping me mimic the real world scenarios and problems at the same time gaining some experience.
-
 - One thing I believe sets me apart from the crowd is my willingness to explore the depth of my skills and implement them. For example, when I started working with Technology, I had a hunger for more knowledge, so I 
   explored it more and more until I became quite proficient. During this process, I experimented with various commands and explored real-world scenarios to gain a better understanding.
 
